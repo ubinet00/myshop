@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>ユビーネット</title>
+<title>ubinet</title>
 </head>
 <body>
 
